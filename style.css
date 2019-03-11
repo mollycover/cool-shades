@@ -4,10 +4,12 @@ html {
 }
 
 body {
+  background-color: lightgray
   margin: 0px;
   padding: 0px;
+
 }
 
-h1 {
-  color: blue;
+.background-image {
+  background-image: url("images/hero.jpg");
 }
