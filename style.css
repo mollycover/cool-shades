@@ -10,9 +10,19 @@ body {
   height: 100%;
 }
 
+.btn-primary {
+  background-color: #d51419;
+  border-color: #dc3545
+}
+
+.btn-primary:hover {
+  background-color: #dc3545;
+  border-color: #d51419;
+}
+
 .background-image {
   padding-top: 25px;
-  background-image:url("images/hero.jpg");
+  background-image: url("images/hero.jpg");
   background-size: cover;
   height: 100%;
 }
